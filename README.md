@@ -6,14 +6,13 @@ Este es un proyecto de videojuego en desarrollo, con estilo **pixel art** y tem�
 
 ## 🚀 Características
 - Personajes originales
-- Enemigos con IA básica
 - Escenarios inspirados en la vida universitaria
 - Arte en pixel art
 
 ## 🛠️ Tecnologías usadas
-- Python + Pygame
-- Aseprite (para sprites)
-- Audacity (para sonidos)
+- GODOT
+- ANDROID STUDIO
+- PIXILART(SPRITES PERSONAJES)
 
 ## 📂 Estructura del repositorio
 - `assets/` → recursos gráficos y de sonido
@@ -22,7 +21,5 @@ Este es un proyecto de videojuego en desarrollo, con estilo **pixel art** y tem�
 - `builds/` → versiones exportadas del juego
 
 ## 👨‍💻 Autores
-- [Tu nombre]
+- [EYDER GUILLERMO ACERO, CRISTIAN DARIO MARTINEZ]
 
-## 📜 Licencia
-Este proyecto se distribuye bajo la licencia MIT.
