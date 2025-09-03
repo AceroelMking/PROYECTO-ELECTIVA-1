@@ -23,9 +23,4 @@ Este es un proyecto de videojuego en desarrollo, con estilo **pixel art** y tem�
 ## 👨‍💻 Autores
 - [EYDER GUILLERMO ACERO, CRISTIAN DARIO MARTINEZ CHIMBACO]
 
-PROYECTO-ELECTIVA-1/
-│
-├── README.md
-└── assets/
-    └── portada.png
 
